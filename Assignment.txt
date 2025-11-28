@@ -30,12 +30,7 @@
         <p>By Luvia Lius</p>
         <p>This is my submission for the Coding Camp project.</p>
         <br>
-
-        <h1>This Weekend Date Ideas
-            <li>Blok M</li>
-            <li>BSD</li>
-            <li>Bintaro</li>
-        </h1>
+        
     </div>
 </body>
 </html>
